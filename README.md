@@ -14,3 +14,13 @@ Este proyecto te permite demostrar que sabes:
 -  Validar formularios y gestionar eventos de usuario.
 -  Aplicar buenas prácticas para **performance** (optimización de carga, manejo eficiente del DOM, etc).
 -  Separar correctamente HTML, CSS y JS.
+
+##  Cómo ejecutar el proyecto
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/cesar1997alan/Blog-de-cafe-performance.git
+
+## Autor
+Cesar Alan Gonzalez Ruiz  
+ LinkedIn: Cesar Alan Gonzalez Ruiz (https://www.linkedin.com/in/cesar-alan-gonzalez-ruiz-35ab42372)  
+ GitHub: https://github.com/cesar1997alan
